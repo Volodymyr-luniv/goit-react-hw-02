@@ -1,0 +1,27 @@
+.feedback {
+	max-width: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 20px 0;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	background-color: #f9f9f9;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.feedback p {
+	margin: 5px 0;
+	font-size: 16px;
+	color: #333;
+}
+
+.feedback {
+	margin-top: 20px;
+}
+
+.feedback p {
+	margin: 5px 0;
+	font-size: 18px;
+}

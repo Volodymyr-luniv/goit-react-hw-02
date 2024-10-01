@@ -1,0 +1,29 @@
+.options {
+	display: flex;
+	justify-content: center;
+	gap: 15px;
+	margin: 20px 0;
+}
+
+.button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	background-color: #007bff;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.button:hover {
+	background-color: #0056b3;
+}
+
+.resetButton {
+	background-color: #dc3545;
+}
+
+.resetButton:hover {
+	background-color: #c82333;
+}
